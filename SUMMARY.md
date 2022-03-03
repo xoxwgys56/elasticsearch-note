@@ -1,3 +1,8 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Welcome](README.md)
+* [🏁 Before you start](before-you-start.md)
+
+## References
+
+* [Read more](references/read-more.md)
