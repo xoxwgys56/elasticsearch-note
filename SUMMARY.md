@@ -1,7 +1,13 @@
 # Table of contents
 
+## About
+
 * [Welcome](README.md)
-* [🏁 Before you start](before-you-start.md)
+* [🏁 Before you start](about/before-you-start.md)
+
+## 🔎 Relevance
+
+* [Basics](relevance/basics.md)
 
 ## References
 
