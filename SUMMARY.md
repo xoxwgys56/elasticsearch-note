@@ -8,6 +8,8 @@
 ## 🔎 Relevance
 
 * [Basics](relevance/basics.md)
+* [Query](relevance/query.md)
+* [Match](relevance/match.md)
 
 ## References
 
