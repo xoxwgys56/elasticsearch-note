@@ -21,3 +21,14 @@ What portion of relevant data is being returned as search results?
 * **Precision**
   * retrieved results to be a perfect match to the query
   * even if retrieved less document result.
+* Recall
+  * retrieve lot of result
+  * even if documents may not be a perfect match to the query.
+
+### Score
+
+* value that represents how relevant a document is to that specific query
+* score is computed for each document that is a hit.
+
+#### TF (Term Frequency)
+
