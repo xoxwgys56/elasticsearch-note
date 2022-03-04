@@ -14,24 +14,23 @@ What portion of the retrieved data is actually relevant to the search query?
 
 What portion of relevant data is being returned as search results?
 
-
-
 **Precision** and **Recall** are inversely related. like:
 
-* **Precision**
-  * retrieved results to be a perfect match to the query
-  * even if retrieved less document result.
-* Recall
-  * retrieve lot of result
-  * even if documents may not be a perfect match to the query.
+- **Precision**
+  - query와 완벽히 매치되는 결과를 반환.
+  - 반환되는 document가 적을 수 있음.
+- Recall
+  - retrieve lot of result
+  - 많은 결과를 반환.
+  - query에 대해 완벽히 매치되는 document가 아닐 수 있음.
 
 ### Score
 
-* value that represents how relevant a document is to that specific query
-* score is computed for each document that is a hit.
-* score use 2 type of data.
-  * term frequency
-  * inverse document frequency
+- value that represents how relevant a document is to that specific query
+- score is computed for each document that is a hit.
+- score use 2 type of data.
+  - term frequency
+  - inverse document frequency
 
 #### TF (Term Frequency)
 
@@ -45,8 +44,6 @@ IDF decrease weight which occur very frequently. our case, _habit_ occurred very
 
 ![https://youtu.be/CCTgroOcyfM?t=830](<../.gitbook/assets/image (6).png>)
 
-
-
 #### `References`
 
-* [https://esbook.kimjmin.net/05-search/5.3-relevancy](https://esbook.kimjmin.net/05-search/5.3-relevancy)
+- [https://esbook.kimjmin.net/05-search/5.3-relevancy](https://esbook.kimjmin.net/05-search/5.3-relevancy)
