@@ -4,7 +4,7 @@
 
 ### Precision
 
-![image from https://youtu.be/CCTgroOcyfM?t=494](<../.gitbook/assets/image (2).png>)
+![image from https://youtu.be/CCTgroOcyfM?t=494](<../.gitbook/assets/image (2) (1).png>)
 
 What portion of the retrieved data is actually relevant to the search query?
 
@@ -32,3 +32,6 @@ What portion of relevant data is being returned as search results?
 
 #### TF (Term Frequency)
 
+for example, let's say search term is "How to form good habits"
+
+![](<../.gitbook/assets/image (5).png>)
