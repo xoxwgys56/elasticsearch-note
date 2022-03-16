@@ -4,13 +4,13 @@
 
 ### Precision
 
-![image from https://youtu.be/CCTgroOcyfM?t=494](<../../.gitbook/assets/image (2) (1) (1).png>)
+![image from https://youtu.be/CCTgroOcyfM?t=494](<../.gitbook/assets/image (2) (1) (1).png>)
 
 What portion of the retrieved data is actually relevant to the search query?
 
 ### Recall
 
-![image from https://youtu.be/CCTgroOcyfM?t=518](<../../.gitbook/assets/image (4).png>)
+![image from https://youtu.be/CCTgroOcyfM?t=518](<../.gitbook/assets/image (4).png>)
 
 What portion of relevant data is being returned as search results?
 
@@ -36,13 +36,13 @@ What portion of relevant data is being returned as search results?
 
 for example, let's say search term is "How to form good habits"
 
-![https://youtu.be/CCTgroOcyfM?t=830](<../../.gitbook/assets/image (5).png>)
+![https://youtu.be/CCTgroOcyfM?t=830](<../.gitbook/assets/image (5).png>)
 
 #### IDF (Inverse Document Frequency)
 
 IDF decrease weight which occur very frequently. our case, _habit_ occurred very frequently.
 
-![https://youtu.be/CCTgroOcyfM?t=830](<../../.gitbook/assets/image (6).png>)
+![https://youtu.be/CCTgroOcyfM?t=830](<../.gitbook/assets/image (6).png>)
 
 #### `References`
 

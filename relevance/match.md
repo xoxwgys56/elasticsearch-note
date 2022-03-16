@@ -74,7 +74,7 @@ GET news_headlines/_search
 }
 ```
 
-![https://github.com/LisaHJung/Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana-#precision-and-recall](<../../.gitbook/assets/image (2).png>)
+![https://github.com/LisaHJung/Part-2-Understanding-the-relevance-of-your-search-with-Elasticsearch-and-Kibana-#precision-and-recall](<../.gitbook/assets/image (2).png>)
 
 found too many documents. need to increase precision.
 

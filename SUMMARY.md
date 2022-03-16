@@ -1,11 +1,15 @@
 # Table of contents
 
+## 😀 About
+
+* [What is this page](README.md)
+
 ## 🔎 elasticsearch
 
-* [🔍 Search](README.md)
-  * [Basics](elasticsearch/search/basics.md)
-  * [Query](elasticsearch/search/query.md)
-  * [Match](elasticsearch/search/match.md)
+* [🔍 Search](elasticsearch/search/README.md)
+  * [Basics](relevance/basics.md)
+  * [Query](relevance/query.md)
+  * [Match](relevance/match.md)
   * [Bool](elasticsearch/search/bool.md)
 
 ## 🐍 python dsl
