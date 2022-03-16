@@ -1,15 +1,16 @@
 # Table of contents
 
-## About
+## 🔎 elasticsearch
 
-* [Welcome](README.md)
-* [🏁 Before you start](about/before-you-start.md)
+* [🔍 Search](README.md)
+  * [Basics](elasticsearch/search/basics.md)
+  * [Query](elasticsearch/search/query.md)
+  * [Match](elasticsearch/search/match.md)
+  * [Bool](elasticsearch/search/bool.md)
 
-## 🔎 Relevance
+## 🐍 python dsl
 
-* [Basics](relevance/basics.md)
-* [Query](relevance/query.md)
-* [Match](relevance/match.md)
+* [Basics](python-dsl/basics.md)
 
 ## References
 
