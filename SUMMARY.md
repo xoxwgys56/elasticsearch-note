@@ -6,6 +6,7 @@
 
 ## 🔎 elasticsearch
 
+* [Basic REST](elasticsearch/basic-rest.md)
 * [🔍 Search](elasticsearch/search/README.md)
   * [Basics](relevance/basics.md)
   * [Query](relevance/query.md)
